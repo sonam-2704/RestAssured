@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="EPINPUNW0077" name="com.restassured.basic.SimpleGetTest" tests="1" failures="0" timestamp="30 Oct 2018 07:06:54 GMT" time="2.789" errors="0">
+  <testcase name="getCityDetails" time="2.775" classname="com.restassured.basic.SimpleGetTest"/>
+</testsuite>

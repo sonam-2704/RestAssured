@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2789" started-at="2018-10-30T12:36:52Z" finished-at="2018-10-30T12:36:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2789" started-at="2018-10-30T12:36:52Z" finished-at="2018-10-30T12:36:54Z">
+      <class name="com.restassured.basic.SimpleGetTest">
+        <test-method status="PASS" signature="getCityDetails()" name="getCityDetails" duration-ms="2775" started-at="2018-10-30T12:36:52Z" finished-at="2018-10-30T12:36:54Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
